@@ -1,0 +1,4 @@
+langchain
+lanchain_ollama
+langchain_core
+tk
